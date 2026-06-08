@@ -1,0 +1,7 @@
+{
+  "command": "BOTH",
+  "condition_price": 0,
+  "condition_direction": "NONE",
+  "close_all": false,
+  "note": "מסחר רגיל"
+}
