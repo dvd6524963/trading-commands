@@ -1,7 +1,3 @@
 {
-  "command":"LONG",
-  "condition_price":0,
-  "condition_direction":"NONE",
-  "close_all":false,
-  "note":"מסחר רגיל"
+  "command":"LONG","condition_price":0,"condition_direction":"NONE","close_all":false,"note":"מסחר רגיל"
 }
