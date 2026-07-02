@@ -1,5 +1,5 @@
 {
-  "command": "BOTH",
+  "command": "LONG",
   "condition_price": 0,
   "condition_direction": "NONE",
   "close_all": false,
